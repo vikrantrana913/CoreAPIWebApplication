@@ -1,0 +1,9 @@
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.csproj.AssemblyReference.cache
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.AssemblyInfoInputs.cache
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.AssemblyInfo.cs
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.csproj.CoreCompileInputs.cache
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.RazorAssemblyInfo.cache
+E:\CoreWeb\CoreMVCWebAPI\CoreMVCWebAPI\obj\Debug\net8.0\CoreMVCWebAPI.RazorAssemblyInfo.cs

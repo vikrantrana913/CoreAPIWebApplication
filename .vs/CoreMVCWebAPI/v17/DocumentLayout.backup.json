@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CoreWeb\\CoreMVCWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\views\\home\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\controllers\\employeeapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|e:\\coreweb\\coremvcwebapi\\coremvcwebapi\\models\\employeedbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300F4C67-612D-4688-84F2-D50F898DB0D1}|CoreMVCWebAPI\\CoreMVCWebAPI.csproj|solutionrelative:coremvcwebapi\\models\\employeedbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CoreMVCWebAPI\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T22:49:25.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Program.cs",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Program.cs",
+              "RelativeToolTip": "CoreMVCWebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:47:26.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Views\\Home\\Index1.cshtml",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Views\\Home\\Index1.cshtml",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Views\\Home\\Index1.cshtml",
+              "RelativeToolTip": "CoreMVCWebAPI\\Views\\Home\\Index1.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T22:42:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeAPIController.cs",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Controllers\\EmployeeAPIController.cs",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Controllers\\EmployeeAPIController.cs",
+              "RelativeToolTip": "CoreMVCWebAPI\\Controllers\\EmployeeAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:25:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreMVCWebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:19:29.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "CoreMVCWebAPI\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:12:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDbModel.cs",
+              "DocumentMoniker": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Models\\EmployeeDbModel.cs",
+              "RelativeDocumentMoniker": "CoreMVCWebAPI\\Models\\EmployeeDbModel.cs",
+              "ToolTip": "E:\\CoreWeb\\CoreMVCWebAPI\\CoreMVCWebAPI\\Models\\EmployeeDbModel.cs",
+              "RelativeToolTip": "CoreMVCWebAPI\\Models\\EmployeeDbModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T22:11:04.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
